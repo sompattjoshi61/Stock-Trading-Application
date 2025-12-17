@@ -93,22 +93,22 @@ NODE_ENV='development'
 NEXT_PUBLIC_BASE_URL=http://localhost:3000
 
 # FINNHUB
-NEXT_PUBLIC_FINNHUB_API_KEY=d4rg6jpr01qgts2nsh20d4rg6jpr01qgts2nsh2g
-FINNHUB_BASE_URL=https://finnhub.io/api/v1
+NEXT_PUBLIC_FINNHUB_API_KEY=
+FINNHUB_BASE_URL=
 
 # MONGODB
-MONGODB_URI=mongodb+srv://stock_tracker_user:vCJyDEtkjE3gU2Lx@cluster0.j5iab4n.mongodb.net/signalist?retryWrites=true&w=majority&appName=Cluster0
+MONGODB_URI=
 
 # BETTER AUTH
-BETTER_AUTH_SECRET=y6wJIb4MQqeX5GnUIRNUmOkrrq8I4XEI
+BETTER_AUTH_SECRET=
 BETTER_AUTH_URL=http://localhost:3000
 
 # GEMINI
-GEMINI_API_KEY=AIzaSyBvZkoDkKRszxmgOM5r0M_IMUXM6i_2Ch8
+GEMINI_API_KEY=
 
 #NODEMAILER
-NODEMAILER_EMAIL=sompattjoshi61@gmail.com
-NODEMAILER_PASSWORD=qiiigtwnvyughxfr
+NODEMAILER_EMAIL=
+NODEMAILER_PASSWORD=
 
 ```
 
